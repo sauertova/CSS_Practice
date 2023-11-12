@@ -5,17 +5,29 @@ padding:0px 0px 0px 100px;
 }
 
 .image{
+<<<<<<< HEAD
 display:inline;
 padding: 30px 0px 0px 100px;
 height: 10%;
 width: 50%;
  margin-top: 0%;
+=======
+display:block;
+padding:100px;
+height: 5%;
+ width: 65 
+margin-top
+>>>>>>> 3cdcc1717fa21260734a0081daf63a94258c9f09
 }
 
 .firstlist{
 display:flex;
 flex-flow: row wrap;
+<<<<<<< HEAD
 justify-content:end;
+=======
+justify-content:flex-end;
+>>>>>>> 3cdcc1717fa21260734a0081daf63a94258c9f09
 list-style:none ;
 vertical-align: top;
 padding: 0px 100px 0px 800px;
