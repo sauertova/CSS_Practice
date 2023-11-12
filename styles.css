@@ -1,7 +1,7 @@
 .logo {
 font-size: 50px;
 font-weight:bolder;
-padding:100px;
+padding:0px 0px 0px 100px;
 }
 
 .image{
@@ -10,8 +10,14 @@ display:block;
 height: 5%;
 /* width: 65 */
  margin-top: 0%;
- 
+}
 
+ul{
+display:flex;
+flex-flow: row wrap;
+justify-content: end;
+list-style:none ;
+padding-inline: 100px;
 
 }
 
