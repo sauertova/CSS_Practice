@@ -6,16 +6,16 @@ padding:0px 0px 0px 100px;
 
 .image{
 display:block;
-    padding:100px;
+padding:100px;
 height: 5%;
-/* width: 65 */
- margin-top: 0%;
+ width: 65 
+margin-top
 }
 
 ul{
 display:flex;
 flex-flow: row wrap;
-justify-content: end;
+justify-content:flex-end;
 list-style:none ;
 padding-inline: 100px;
 
